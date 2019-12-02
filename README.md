@@ -1,1 +1,1 @@
-# Learn Go/Golang - Go/Golang
+# Learn Go/Golang
